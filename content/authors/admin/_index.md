@@ -44,4 +44,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Daniel is an Economics Ph.D. Student at the University of California, Los Angeles. His research interests include antitrust enforcement, merger analyses and the effects of product variety on consumer surplus. {style="text-align: justify;"}
+Daniel is an Economics Ph.D. Student at the University of California, Los Angeles. His research interests include antitrust enforcement, merger analyses and the effects of product variety on consumer surplus. His dissertation focuses on the relationship between product variety, mergers and consumer surplus in the context of the Miller-Coors merger of 2008. 
+
+D﻿uring his time at UCLA, he has taught a variety of courses focused on Microeconomics, including Econ 101, Econ 104 and Econ 1. He has also assisted on several economic papers. 
+
+Prior to the Ph.D., he worked at the Kansas City Fed as a Research Associate for two years on a variety of projects focused on surveying non-profits, examining consumer credit data and presenting economic updates to community members. 
+
+{style="text-align: justify;"}
