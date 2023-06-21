@@ -1,7 +1,7 @@
 ---
 title: Daniel Perez
 role: Economics Ph.D. Student
-avatar_filename: professional_photo.png
+avatar_filename: professional_photo_2.png
 bio: My research interests include antitrust enforcement, merger analyses and
   the effects of product variety on consumer surplus.
 interests:
