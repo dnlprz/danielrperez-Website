@@ -96,11 +96,17 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2021-06-25'
+          date_start: '2021-06-01'
           description: ''
           organization: UCLA
           title: Graduate Summer Research Mentorship
-          title_url: 'https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/graduate-summer-research-mentorship-program/'
+          organization_url: 'https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/graduate-summer-research-mentorship-program/'
+        - date_end: '2022-09-01'
+          date_start: '2018-09-01'
+          description: ''
+          organization: UCLA
+          title: Cota-Robles Fellowship
+          organization_url: 'https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/graduate-summer-research-mentorship-program/'
     design:
       columns: '2'
   - block: collection
