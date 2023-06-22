@@ -53,10 +53,10 @@ sections:
               * Economics for a General Audience
               * Intermediate Microeconomics
               * Data Science for Economists
-        design:
-      columns: '3'
+      design:
+        columns: '3'
       items:
-            - title: Research Assistant
+        - title: Research Assistant
           company: UCLA
           company_url: ''
           company_logo: ''
@@ -65,7 +65,7 @@ sections:
           date_end:  '2021-12-01'
           description: |2-
              Provided data analysis and wrote report on experiences of transfer students studying economics. Created and managed survey for this project. For a separate project, coded programs designed to extract information from HTML pages, convert PDFs to other types of files and clean various types of data. Additionally, coded a program that matches this information to geographic shapefiles and distances.
-            - title: Instructor
+        - title: Instructor
           company: UCLA
           company_url: ''
           company_logo: ''
@@ -75,7 +75,7 @@ sections:
           description: |2-
               Taught Intermediate Microeconomics to a class of 25 undergrad students. Created all class notes, slides, discussion notes, and questions for homeworks and tests. Graded all homeworks and tests. Held office hours for students and helped students struggling with material.
         design:
-      columns: '3'
+          columns: '3'
        items:
             - title: Research Associate
           company: Federal Reserve Bank of Kansas City
