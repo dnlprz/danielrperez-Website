@@ -71,6 +71,15 @@ sections:
           date_end:  '2021-12-01'
           description: |2-
              Provided data analysis and wrote report on experiences of transfer students studying economics. Created and managed survey for this project. For a separate project, coded programs designed to extract information from HTML pages, convert PDFs to other types of files and clean various types of data. Additionally, coded a program that matches this information to geographic shapefiles and distances.
+            - title: Research Associate
+          company: Federal Reserve Bank of Kansas City
+          company_url: ''
+          company_logo: ''
+          location: Los Angeles, CA
+          date_start: '2016-06-01'
+          date_end:  '2018-07-01'
+          description: |2-
+Created literary reviews, managed data and coded economic models for Community Affairs and Economic Department staff. Wrote internal and external publications for community organizations, academia and public audiences. Performed speaking engagements to roundtables and community groups on economic trends.        
     design:
       columns: '3'
   - block: accomplishments
