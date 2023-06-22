@@ -141,9 +141,9 @@ sections:
           name: Follow Me on Twitter
           link: https://twitter.com/danrperez
         - icon: linkedin
-            icon_pack: fab
-            name: Follow Me on Linkedin
-            link: https://www.linkedin.com/in/danielrperez/
+          icon_pack: fab
+          name: Follow Me on Linkedin
+          link: https://www.linkedin.com/in/danielrperez/
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
