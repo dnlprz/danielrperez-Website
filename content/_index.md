@@ -126,7 +126,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: danielrperez@g.ucla.edu
       address:
-        street:Bunche Hall 8276, 315 Portola Plaza
+        street: Bunche Hall 8276, 315 Portola Plaza
         city: Los Angeles
         region: CA
         postcode: '90095'
