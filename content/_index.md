@@ -65,6 +65,9 @@ sections:
           date_end:  '2021-12-01'
           description: |2-
              Provided data analysis and wrote report on experiences of transfer students studying economics. Created and managed survey for this project. For a separate project, coded programs designed to extract information from HTML pages, convert PDFs to other types of files and clean various types of data. Additionally, coded a program that matches this information to geographic shapefiles and distances.
+      design:
+        columns: '3'
+      items:
         - title: Instructor
           company: UCLA
           company_url: ''
