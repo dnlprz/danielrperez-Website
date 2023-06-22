@@ -79,7 +79,7 @@ sections:
           date_start: '2016-06-01'
           date_end:  '2018-07-01'
           description: |2-
-Created literary reviews, managed data and coded economic models for Community Affairs and Economic Department staff. Wrote internal and external publications for community organizations, academia and public audiences. Performed speaking engagements to roundtables and community groups on economic trends.        
+              Created literary reviews, managed data and coded economic models for Community Affairs and Economic Department staff. Wrote internal and external publications for community organizations, academia and public audiences. Performed speaking engagements to roundtables and community groups on economic trends.        
     design:
       columns: '3'
   - block: accomplishments
