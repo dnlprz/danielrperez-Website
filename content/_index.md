@@ -75,7 +75,7 @@ sections:
           company: Federal Reserve Bank of Kansas City
           company_url: ''
           company_logo: ''
-          location: Los Angeles, CA
+          location: Kansas City, MO
           date_start: '2016-06-01'
           date_end:  '2018-07-01'
           description: |2-
