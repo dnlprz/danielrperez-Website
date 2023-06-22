@@ -99,6 +99,7 @@ sections:
           date_start: '2021-06-25'
           description: ''
           organization: UCLA
+          organization_url: 'https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/graduate-summer-research-mentorship-program/'
           title: Graduate Summer Research Mentorship
     design:
       columns: '2'
