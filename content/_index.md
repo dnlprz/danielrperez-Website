@@ -53,20 +53,24 @@ sections:
               * Economics for a General Audience
               * Intermediate Microeconomics
               * Data Science for Economists
-        - title: Teaching Assistant
+        - title: Instructor
+          company: UCLA
+          company_url: ''
+          company_logo: ''
+          location: Los Angeles, CA
+          date_start: '2022-06-01'
+          date_end:  '2022-07-01'
+          description: |2-
+              Taught Intermediate Microeconomics to a class of 25 undergrad students. Created all class notes, slides, discussion notes, and questions for homeworks and tests. Graded all homeworks and tests. Held office hours for students and helped students struggling with material.
+            - title: Research Assistant
           company: UCLA
           company_url: ''
           company_logo: ''
           location: Los Angeles, CA
           date_start: '2019-09-01'
-          date_end: ''
+          date_end:  '2021-12-01'
           description: |2-
-              Taught, prepared discussion notes and questions for homework and exams, and graded exams for the following courses:  
-
-              * Introductory Economics
-              * Economics for a General Audience
-              * Intermediate Microeconomics
-              * Data Science for Economists 
+             Provided data analysis and wrote report on experiences of transfer students studying economics. Created and managed survey for this project. For a separate project, coded programs designed to extract information from HTML pages, convert PDFs to other types of files and clean various types of data. Additionally, coded a program that matches this information to geographic shapefiles and distances.
     design:
       columns: '2'
   - block: accomplishments
