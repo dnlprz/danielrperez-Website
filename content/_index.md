@@ -39,19 +39,34 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Teaching Assistant
+          company: UCLA
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: ''
+          location: Los Angeles, CA
+          date_start: '2019-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Taught, prepared discussion notes and questions for homework and exams, and graded exams for the following courses:  
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Introductory Economics
+              * Economics for a General Audience
+              * Intermediate Microeconomics
+              * Data Science for Economists
+        - title: Teaching Assistant
+          company: UCLA
+          company_url: ''
+          company_logo: ''
+          location: Los Angeles, CA
+          date_start: '2019-09-01'
+          date_end: ''
+          description: |2-
+              Taught, prepared discussion notes and questions for homework and exams, and graded exams for the following courses:  
+
+              * Introductory Economics
+              * Economics for a General Audience
+              * Intermediate Microeconomics
+              * Data Science for Economists 
     design:
       columns: '2'
   - block: accomplishments
