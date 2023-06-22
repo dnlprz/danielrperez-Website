@@ -123,7 +123,6 @@ sections:
       title: Contact
       subtitle:
       text: |-
-       
       # Contact (add or remove contact options as necessary)
       email: danielrperez@g.ucla.edu
       address:
@@ -140,7 +139,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: Follow Me on Twitter
-          link: '[https://twitter.com/Twitter](https://twitter.com/danrperez)'
+          link: https://twitter.com/danrperez
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
