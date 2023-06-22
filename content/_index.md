@@ -53,6 +53,7 @@ sections:
               * Economics for a General Audience
               * Intermediate Microeconomics
               * Data Science for Economists
+      items:
             - title: Research Assistant
           company: UCLA
           company_url: ''
@@ -71,6 +72,7 @@ sections:
           date_end:  '2022-07-01'
           description: |2-
               Taught Intermediate Microeconomics to a class of 25 undergrad students. Created all class notes, slides, discussion notes, and questions for homeworks and tests. Graded all homeworks and tests. Held office hours for students and helped students struggling with material.
+       items:
             - title: Research Associate
           company: Federal Reserve Bank of Kansas City
           company_url: ''
