@@ -61,7 +61,10 @@ sections:
           date_start: '2019-09-01'
           date_end:  '2021-12-01'
           description: |2-
-             Provided data analysis and wrote report on experiences of transfer students studying economics. Created and managed survey for this project. For a separate project, coded programs designed to extract information from HTML pages, convert PDFs to other types of files and clean various types of data. Additionally, coded a program that matches this information to geographic shapefiles and distances.
+            * Designed a survey distributed to over 100 students for an internal department study, analyzed the results of the survey, and wrote a report on experiences of transfer students studying economics.
+            * In a separate project for a working paper on an Economic History topic, programmed a tool in Python designed to extract information from HTML pages, convert PDFs to CSV files and cleaned geographic and census data in STATA.
+            * Developed a tool in ArcGIS that matches the geographic and census information to geographic shapefiles and distances.
+            * Wrote appendix chapters detailing the cleaning procedure and all code related to the project.
         - title: Instructor
           company: UCLA
           company_url: ''
