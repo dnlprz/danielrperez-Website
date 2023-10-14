@@ -129,7 +129,7 @@ sections:
         exclude_featured: false
     design:
       columns: '3'
-    view:'card'
+      view: 'card'
   - block: contact
     id: contact
     content:
