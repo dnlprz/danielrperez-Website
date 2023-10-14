@@ -47,12 +47,12 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
-              * Led TA sections for 20 Economics Classes teaching basic to advanced Economic Topics for groups of students ranging from 10 to 30.
+              * Led TA sections for 20 Economics Classes teaching the following courses for groups of students ranging from 10 to 30.
+                * Introductory Economics
+                * Economics for a General Audience
+                * Intermediate Microeconomics
+                * Data Science for Economists
               * Wrote discussion notes and questions for homework and tests.
-              * Introductory Economics
-              * Economics for a General Audience
-              * Intermediate Microeconomics
-              * Data Science for Economists
         - title: Research Assistant
           company: UCLA
           company_url: ''
