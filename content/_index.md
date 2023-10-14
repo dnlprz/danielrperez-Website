@@ -129,7 +129,6 @@ sections:
         exclude_featured: false
     design:
       columns: '3'
-      view: citation
   - block: contact
     id: contact
     content:
