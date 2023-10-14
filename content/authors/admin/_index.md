@@ -20,6 +20,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/danielrperez/
+     display:
+      header: true
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
