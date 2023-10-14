@@ -73,7 +73,9 @@ sections:
           date_start: '2022-06-01'
           date_end:  '2022-07-01'
           description: |2-
-              Taught Intermediate Microeconomics to a class of 25 undergrad students. Created all class notes, slides, discussion notes, and questions for homeworks and tests. Graded all homeworks and tests. Held office hours for students and helped students struggling with material.
+            * Taught Economics 101: Intermediate Microeconomics to a class of 25 undergrad students.
+            * Created all class notes, slides, discussion notes, and questions for homework and tests.
+            * Helped students with material in weekly office hours and through email.
         - title: Research Associate
           company: Federal Reserve Bank of Kansas City
           company_url: ''
@@ -82,7 +84,10 @@ sections:
           date_start: '2016-06-01'
           date_end:  '2018-07-01'
           description: |2-
-              Created literary reviews, managed data and coded economic models for Community Affairs and Economic Department staff. Wrote internal and external publications for community organizations, academia and public audiences. Performed speaking engagements to roundtables and community groups on economic trends.        
+            * Prepared literature reviews, organized data and coded economic models for Community Affairs and Economic Department staff.
+            * Penned internal and external publications for community organizations, academia, and public audiences.
+            * Performed speaking engagements to roundtables and community groups on economic trends.
+            * Coauthored three articles describing Low and Middle-Income Survey Results and Consumer Credit Report Analyses. Solo authored two articles focused on Mixed-Income housing and subprime auto lending. 
     design:
       columns: '3'
   - block: accomplishments
