@@ -47,8 +47,8 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
-              Taught, prepared discussion notes and questions for homework and exams, and graded exams for the following courses:  
-
+              * Led TA sections for 20 Economics Classes teaching basic to advanced Economic Topics for groups of students ranging from 10 to 30.
+              * Wrote discussion notes and questions for homework and tests.
               * Introductory Economics
               * Economics for a General Audience
               * Intermediate Microeconomics
