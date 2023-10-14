@@ -6,7 +6,8 @@ bio: My research interests include antitrust enforcement, merger analyses and
   the effects of product variety on consumer surplus.
 interests:
   - Antitrust Enforcement
-  - Merger Analyses and the Effects of Product Variety on Consumer Surplus
+  - Merger Analyses
+  - The Effects of Product Variety on Consumer Surplus
 social:
   - icon: envelope
     icon_pack: fas
