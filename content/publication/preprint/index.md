@@ -4,26 +4,7 @@ publication_types:
 authors:
   - admin
 publication_short: ""
-abstract: "A concern among regulators during a merger or acquisition is
-  potential price increases due to the increase in market power. However, there
-  has been increased concern for the non-price effects of mergers, such as the
-  effects on product variety. Prior works in the literature consider these
-  effects, yet do not consider how they may compare. This paper bridges this gap
-  by comparing the welfare effects of product variety changes would be in
-  relation to the welfare effects of price in the context of the MillerCoors
-  merger. The merger's clear product definition, decision to merge unrelated to
-  product variety, well measured consumer surplus effects, evidence of price
-  coordination and involvement of two large competitors with heterogeneous
-  products make this an ideal setting to measure these effects. I first test if
-  the merger had any effect on product variety directly, and find product
-  variety fell for Miller and Coors, but increased compared to its competitors.
-  I then use a random coefficient nested logit model and estimate demand for the
-  MillerCoors merger in the post-merger period, expanding on work from Miller
-  and Weinberg (2017). I test how much consumers value products that were added
-  and dropped after the merger with two basic counterfactuals, and find consumer
-  surplus declines by at most a percent when new products are dropped after the
-  merger. This is 25% of the consumer welfare effects of coordinated pricing
-  found in Miller and Weinberg (2017). "
+abstract: "This paper finds evidence of product variety changes due to a merger and compares the welfare effects of product variety changes would be in relation to the welfare effects of price changes in the context of the MillerCoors merger of 2008. We first test if the merger had any effect on product variety directly, and find consolidation of brands, but a decline in product variety relative to competitors using a difference-and-differences framework. We then use a random coefficient nested logit model and estimate demand for the MillerCoors merger in the post-merger period, expanding on work from Miller and Weinberg (2017). We test how much consumers value products that were added after the merger and find consumer surplus declines by 1.25\% if new products made after the merger were never created. In another set of counterfactuals, we test what the change in consumer surplus would be had discontinued products remained in the market and find consumer surplus would rise by 0.14\%. The effect of new product removal and discontinued product retention is approximately 34\% and 4\% of the consumer welfare effects of coordinated pricing found in prior work, respectively.  "
 draft: true
 slides: example
 url_pdf: 
