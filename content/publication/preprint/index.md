@@ -13,8 +13,7 @@ url_dataset: "#"
 url_project: ""
 url_source: "#"
 url_video: "#"
-title: How Much Do Consumers Care About Discontinued and New Products? A Case
-  Study of the MillerCoors Merger
+title: How much do consumers care about New and Discontinued products? A Case Study of the MillerCoors Merger
 publication: ""
 featured: true
 tags:
