@@ -117,7 +117,7 @@ sections:
           organization_url: 'https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/graduate-summer-research-mentorship-program/'
     design:
       columns: '2'
-  - block: experience
+  - block: collection
     content:
       title: 'Working Papers'
       text: ''
