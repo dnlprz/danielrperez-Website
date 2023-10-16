@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "How much do consumers care about New and Discontinued products? A Case Study of the MillerCoors Merger"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -17,10 +17,11 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 
+This paper finds evidence of product variety changes due to a merger and compares the welfare effects of product variety changes would be in relation to the welfare effects of price changes in the context of the MillerCoors merger of 2008. We first test if the merger had any effect on product variety directly, and find consolidation of brands, but a decline in product variety relative to competitors using a difference-and-differences framework. We then use a random coefficient nested logit model and estimate demand for the MillerCoors merger in the post-merger period, expanding on work from Miller and Weinberg (2017). We test how much consumers value products that were added after the merger and find consumer surplus declines by 1.25% if new products made after the merger were never created. In another set of counterfactuals, we test what the change in consumer surplus would be had discontinued products remained in the market and find consumer surplus would rise by 0.14%. The effect of new product removal and discontinued product retention is approximately 34% and 4% of the consumer welfare effects of coordinated pricing found in prior work, respectively.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper finds evidence of product variety changes due to a merger and compares the welfare effects of product variety changes would be in relation to the welfare effects of price changes in the context of the MillerCoors merger of 2008. 
 
 tags:
 - Source Themes
