@@ -17,16 +17,10 @@ sections:
       items:
         - name: R
           description: Proficient
-          icon: r-project
-          icon_pack: fab
         - name: STATA
           description: Proficient
-          icon: stata
-          icon_pack: fab
         - name: Python
           description: Proficient
-          icon: python
-          icon_pack: fab
   - block: experience
     content:
       title: Experience
