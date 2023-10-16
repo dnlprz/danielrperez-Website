@@ -15,18 +15,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: Proficient
-          icon: r
-          icon_pack: fab
-        - name: STATA
-          description: Proficient
-          icon: stata
-          icon_pack: fab
         - name: Python
           description: Proficient
           icon: python
           icon_pack: fab
+        - name: R
+          description: Proficient
+          icon: r-project
+          icon_pack: fab
+        - name: STATA
+          description: Proficient
   - block: experience
     content:
       title: Experience
