@@ -119,9 +119,6 @@ sections:
     content:
       title: Working Papers
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
