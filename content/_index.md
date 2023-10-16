@@ -118,37 +118,16 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: publication
     content:
       title: Working Papers
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
       filters:
-        # The folders to display content from
         folders:
-          - publication/preprint
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: card
-      # Choose single or dual column layout
-      columns: '1'
+          - publication
+        exclude_featured: true
   - block: contact
     id: contact
     content:
