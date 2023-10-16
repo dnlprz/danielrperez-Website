@@ -2,7 +2,7 @@
 title: Publications
 cms_exclude: true
 
-# View
+# View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
@@ -10,7 +10,7 @@ cms_exclude: true
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-header:
+banner:
   caption: ''
   image: ''
 ---
