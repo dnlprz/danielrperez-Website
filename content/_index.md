@@ -129,7 +129,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - publication
+          - publication/preprint
         author: ""
         category: ""
         tag: ""
