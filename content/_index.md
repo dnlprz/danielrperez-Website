@@ -113,6 +113,12 @@ sections:
           organization: UCLA
           title: Cota-Robles Fellowship
           organization_url: 'https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/graduate-summer-research-mentorship-program/'
+        - date_end: '2022-06-01'
+          date_start: '2022-06-01'
+          description: ''
+          organization: UCLA
+          title: Lewis L. Clarke Graduate Fellowship Fund
+          organization_url: 'https://economics.ucla.edu/'
     design:
       columns: '2'
   - block: collection
