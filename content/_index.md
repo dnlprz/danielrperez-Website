@@ -121,8 +121,6 @@ sections:
     content:
       title: 'Working Papers'
       text: ''
-    design:
-      columns: '3'
   - block: contact
     id: contact
     content:
