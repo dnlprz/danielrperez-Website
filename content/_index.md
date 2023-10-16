@@ -121,11 +121,6 @@ sections:
     content:
       title: 'Working Papers'
       text: ''
-        description: |2-
-        filters:
-          folders:
-          - publication
-        exclude_featured: false
     design:
       columns: '3'
   - block: contact
