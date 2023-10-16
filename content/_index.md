@@ -121,9 +121,9 @@ sections:
     content:
       title: 'Working Papers'
       text: ''
-      description: ''
-       filters:
-        folders:
+        description: |2-
+        filters:
+          folders:
           - publication
         exclude_featured: false
     design:
