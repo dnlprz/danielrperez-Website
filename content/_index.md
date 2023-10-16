@@ -118,14 +118,37 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: publication
     content:
-      title: 'Working Papers'
+      title: Working Papers
+      subtitle: ''
       text: ''
-      items:
-        - title: 'How much do consumers care about New and Discontinued products? A Case Study of the MillerCoors Merger'
-          description: |2- 'This paper finds evidence of product variety changes due to a merger and compares the welfare effects of product variety changes would be in relation to the welfare effects of price changes in the context of the MillerCoors merger of 2008. We first test if the merger had any effect on product variety directly, and find consolidation of brands, but a decline in product variety relative to competitors using a difference-and-differences framework. We then use a random coefficient nested logit model and estimate demand for the MillerCoors merger in the post-merger period, expanding on work from Miller and Weinberg (2017). We test how much consumers value products that were added after the merger and find consumer surplus declines by 1.25% if new products made after the merger were never created. In another set of counterfactuals, we test what the change in consumer surplus would be had discontinued products remained in the market and find consumer surplus would rise by 0.14%. The effect of new product removal and discontinued product retention is approximately 34% and 4% of the consumer welfare effects of coordinated pricing found in prior work, respectively.'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - publication
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      columns: '2'
+      # Choose a listing view
+      view: card
+      # Choose single or dual column layout
+      columns: '1'
   - block: contact
     id: contact
     content:
