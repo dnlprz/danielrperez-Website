@@ -1,8 +1,8 @@
 ---
 title: Publications
-cms_exclude: true
+cms_exclude: false
 
-# View.
+# View
 #   1 = List
 #   2 = Compact
 #   3 = Card
