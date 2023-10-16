@@ -21,7 +21,7 @@ sections:
           icon_pack: fab
         - name: STATA
           description: Proficient
-          icon: STATA
+          icon: stata
           icon_pack: fab
         - name: Python
           description: Proficient
