@@ -29,8 +29,8 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: '#'
-url_slides: '#'
+url_pdf: ''
+url_slides: ''
 
 ### Featured image
 ### To use, add an image named `featured.jpg/png` to your page's folder. 
