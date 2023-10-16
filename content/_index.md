@@ -17,7 +17,7 @@ sections:
       items:
         - name: R
           description: Proficient
-          icon: r
+          icon: rstudio
           icon_pack: fab
         - name: STATA
           description: Proficient
