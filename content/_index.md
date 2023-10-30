@@ -11,6 +11,17 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: collection
+    content:
+      title: Working Papers
+      text: |-
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation    
   - block: features
     content:
       title: Skills
@@ -120,17 +131,6 @@ sections:
           organization_url: 'https://economics.ucla.edu/'
     design:
       columns: '2'
-  - block: collection
-    content:
-      title: Working Papers
-      text: |-
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
