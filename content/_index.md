@@ -22,20 +22,6 @@ sections:
     design:
       columns: '2'
       view: citation    
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: Proficient
-          icon: python
-          icon_pack: fab
-        - name: R
-          description: Proficient
-          icon: r-project
-          icon_pack: fab
-        - name: STATA
-          description: Proficient
   - block: experience
     content:
       title: Experience
@@ -131,6 +117,20 @@ sections:
           organization_url: 'https://economics.ucla.edu/'
     design:
       columns: '2'
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: Python
+          description: Proficient
+          icon: python
+          icon_pack: fab
+        - name: R
+          description: Proficient
+          icon: r-project
+          icon_pack: fab
+        - name: STATA
+          description: Proficient
   - block: contact
     id: contact
     content:
