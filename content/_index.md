@@ -119,6 +119,7 @@ sections:
           organization_url: 'https://economics.ucla.edu/'
     design:
       columns: '2'
+    weight: 3     
   - block: features
     content:
       title: Skills
@@ -133,6 +134,7 @@ sections:
           icon_pack: fab
         - name: STATA
           description: Proficient
+    weight: 4     
   - block: contact
     id: contact
     content:
@@ -172,4 +174,5 @@ sections:
           captcha: true
     design:
       columns: '2'
+    weight: 5     
 ---
