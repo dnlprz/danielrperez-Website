@@ -19,10 +19,10 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      weight: 1     
     design:
       columns: '2'
       view: citation
-      weight: 1     
   - block: experience
     content:
       title: Experience
