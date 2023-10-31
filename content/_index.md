@@ -22,7 +22,7 @@ sections:
     design:
       columns: '2'
       view: citation
-    weight: 1     
+      weight: 1     
   - block: experience
     content:
       title: Experience
@@ -86,7 +86,7 @@ sections:
             * Coauthored three articles describing Low and Middle-Income Survey Results and Consumer Credit Report Analyses. Solo authored two articles focused on Mixed-Income housing and subprime auto lending. 
     design:
       columns: '3'
-    weight: 2     
+      weight: 2     
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -119,7 +119,7 @@ sections:
           organization_url: 'https://economics.ucla.edu/'
     design:
       columns: '2'
-    weight: 3     
+      weight: 3     
   - block: features
     content:
       title: Skills
@@ -134,7 +134,8 @@ sections:
           icon_pack: fab
         - name: STATA
           description: Proficient
-    weight: 4     
+    design:
+      weight: 4     
   - block: contact
     id: contact
     content:
@@ -174,5 +175,5 @@ sections:
           captcha: true
     design:
       columns: '2'
-    weight: 5     
+      weight: 5     
 ---
