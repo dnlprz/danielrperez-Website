@@ -18,11 +18,11 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
-      weight: 1     
+        exclude_featured: false   
     design:
       columns: '2'
       view: citation
+      weight: 1  
   - block: experience
     content:
       title: Experience
