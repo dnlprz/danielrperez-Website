@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: 'uploads/JMP_Draft_Website.pdf'
 url_slides: ''
 
 ### Featured image
