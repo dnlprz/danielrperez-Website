@@ -23,9 +23,9 @@ social:
     link: https://www.linkedin.com/in/danielrperez/
     display:
       header: true
-##  - icon: cv
-##    icon_pack: ai
-##    link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV_Daniel_Perez_Job_Market.pdf
 organizations:
   - name: University of California, Los Angeles
     url: https://economics.ucla.edu/
