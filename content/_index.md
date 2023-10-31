@@ -21,7 +21,8 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: citation    
+      view: citation
+    weight: 1     
   - block: experience
     content:
       title: Experience
@@ -84,7 +85,8 @@ sections:
             * Performed speaking engagements to roundtables and community groups on economic trends.
             * Coauthored three articles describing Low and Middle-Income Survey Results and Consumer Credit Report Analyses. Solo authored two articles focused on Mixed-Income housing and subprime auto lending. 
     design:
-      columns: '3'
+      columns: '3
+    weight: 2     
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
