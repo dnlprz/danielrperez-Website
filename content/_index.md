@@ -11,6 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      weight: 10  
   - block: collection
     content:
       title: Working Papers
@@ -18,10 +19,12 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false   
+        exclude_featured: false
+      weight: 10  
     design:
       columns: '2'
       view: citation
+      weight: 10  
     weight: 10  
   - block: experience
     content:
