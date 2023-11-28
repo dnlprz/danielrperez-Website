@@ -29,7 +29,9 @@ featured: false
 links:
 url_pdf: 'uploads/JMP_Draft_Website.pdf'
 url_slides: ''
-
+- name: Appendix
+  url: 'uploads/JMP_Appendix.pdf'
+  
 ### Featured image
 ### To use, add an image named `featured.jpg/png` to your page's folder. 
 ## image:
